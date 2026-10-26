@@ -1,4 +1,4 @@
-# Machine Learning 2026–2027
+# Machine Learning 2026-2027
 
 Coursework and practical notebooks for the Machine Learning course at Selçuk University.
 
@@ -6,7 +6,7 @@ This repository contains the assignments completed throughout the 2026–2027 ac
 
 ## Assignments
 
-### 01 — Titanic Data Preprocessing
+### 01 - Titanic Data Preprocessing
 
 Basic data preprocessing on the Titanic dataset using Pandas and NumPy.
 
@@ -23,7 +23,7 @@ Folder: `01_titanic_veri_on_isleme/`
 
 ---
 
-### 02 — Regression and Gradient Descent
+### 02 - Regression and Gradient Descent
 
 Linear regression and Gradient Descent practice in two parts.
 
