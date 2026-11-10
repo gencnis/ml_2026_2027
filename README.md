@@ -41,6 +41,28 @@ Topics covered:
 
 Folder: `02_regresyon_gradient_descent/`
 
+---
+
+### 03 - KNN and Logistic Regression
+
+Classification practice using K-Nearest Neighbors and Logistic Regression.
+
+The first part classifies a target point manually using Euclidean distance and `k = 3`.
+
+The second part trains a Logistic Regression model on the diabetes dataset and evaluates it using classification metrics and ROC analysis.
+
+Topics covered:
+- K-Nearest Neighbors
+- Euclidean distance
+- Logistic Regression
+- Train/test split
+- Standardization
+- Accuracy, Precision, Recall and F1 Score
+- Confusion Matrix
+- ROC-AUC and ROC Curve
+
+Folder: `03_knn_logistic_regresyon/`
+
 ## Repository Structure
 
 ```text
@@ -48,5 +70,6 @@ ml_2026_2027/
 ├── README.md
 ├── requirements.txt
 ├── 01_titanic_veri_on_isleme/
-└── 02_regresyon_gradient_descent/
+├── 02_regresyon_gradient_descent/
+└── 03_knn_logistic_regresyon/
 ```
