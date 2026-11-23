@@ -71,5 +71,6 @@ ml_2026_2027/
 ├── requirements.txt
 ├── 01_titanic_veri_on_isleme/
 ├── 02_regresyon_gradient_descent/
-└── 03_knn_logistic_regresyon/
+├── 03_knn_logistic_regresyon/
+└── 04_karar_agaci_naive_bayes/
 ```
